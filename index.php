@@ -4,4 +4,4 @@ class TreinamentoImproov {
     return "Iniciando treinamento para $nome!";
   }
 }
-$curso1 = new TreinamentoImproov();
+$curso = new TreinamentoImproov();
